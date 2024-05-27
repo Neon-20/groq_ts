@@ -1,4 +1,4 @@
-"use strict";
+"use strict"
 const Groq = require("groq-sdk");
 const dotenv = require("dotenv");
 
